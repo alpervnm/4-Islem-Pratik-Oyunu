@@ -1,0 +1,8 @@
+C:\Users\Alper\source\repos\4islemPratik\bin\Debug\4islemPratik.exe.config
+C:\Users\Alper\source\repos\4islemPratik\bin\Debug\4islemPratik.exe
+C:\Users\Alper\source\repos\4islemPratik\bin\Debug\4islemPratik.pdb
+C:\Users\Alper\source\repos\4islemPratik\obj\Debug\4islemPratik.csproj.AssemblyReference.cache
+C:\Users\Alper\source\repos\4islemPratik\obj\Debug\4islemPratik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alper\source\repos\4islemPratik\obj\Debug\4islemPratik.csproj.CoreCompileInputs.cache
+C:\Users\Alper\source\repos\4islemPratik\obj\Debug\4islemPratik.exe
+C:\Users\Alper\source\repos\4islemPratik\obj\Debug\4islemPratik.pdb
